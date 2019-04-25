@@ -2,6 +2,16 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
+The UML diagrams: 
+
+![Activity](images/activity.jpg)
+
+![sequence](images/sequence.jpg)
+
+![state](images/state.jpg)
+
+![classes](images/classes.jpg)  
+
 The DApp User Interface when running should look like... 
 
 ![truffle test](images/ftc_admin.png) 
@@ -109,6 +119,5 @@ npm run dev
 * Ganache-cli
 * Truffle
 * Truffle-HDWallet-provider
-* TransactionHash:
-  * ![truffle test](images/trxhash.jpg)
+* TransactionHash:![truffle test](images/trxhash.jpg)
 * Contract Address: 0x54c9ade6311bf5c6d24d8bf249bd400089c69d4d
