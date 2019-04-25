@@ -109,5 +109,6 @@ npm run dev
 * Ganache-cli
 * Truffle
 * Truffle-HDWallet-provider
-* TransactionHash:![truffle test](images/trxhash.jpg)
+* TransactionHash:
+  * ![truffle test](images/trxhash.jpg)
 * Contract Address: 0x54c9ade6311bf5c6d24d8bf249bd400089c69d4d
