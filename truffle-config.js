@@ -8,7 +8,7 @@ module.exports = {
      
 
       provider: function () {
-        return new HDWalletProvider("body sell knock seek sign lend finish push fatal grab lazy dismiss", "https://rinkeby.infura.io/v3/2a3ef5517fce4991b5d2c4cf004ff40d")
+        return new HDWalletProvider("not real", "https://rinkeby.infura.io/v3/2a3ef5517fce4991b5d2c4cf004ff40d")
       },
       gasPrice: 44000000000,
       network_id: 4
